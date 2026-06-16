@@ -1,0 +1,13 @@
+# Sanitized showcase — never commit secrets, infra config, or real data.
+.env
+.env.*
+*.pem
+*.key
+secrets/
+config.local.*
+*.db
+*.sqlite
+*.log
+data/
+.DS_Store
+__pycache__/
