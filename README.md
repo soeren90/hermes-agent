@@ -43,11 +43,9 @@ Because it's always up and reachable, Hermes is also a general assistant —
 answering questions, fielding quick tasks, and handling the small recurring
 things at any hour, without me opening a laptop.
 
-> <!-- Fill in (only you know these) — delete the angle brackets when done:
->  - which ticketing/PM system it manages: <e.g. Linear / Jira / GitHub Issues / Notion>
->  - how you talk to it 24/7: <e.g. a Telegram/Slack/WhatsApp bot, email, web>
->  - the agent runtime/stack: <e.g. Python service + an LLM API / Agent SDK>
-> Keep these generic if you'd rather not name vendors. -->
+In practice, Hermes manages the backlog in **Linear** and is reachable through
+a **Telegram** bot — so capturing a bug, filing an idea, or asking it something
+is just a message, from anywhere, at any hour.
 
 ---
 
