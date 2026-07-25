@@ -13,11 +13,13 @@ This repository is a **sanitized, generalized showcase** of that system — the
 architecture and the operating model, with the specific app, company, and tools
 removed. It's meant to be read, not run as-is.
 
-> **Companion repo:** [`larry`](https://github.com/soeren90/larry) shows the
+> **Part of a system.** [`larry`](https://github.com/soeren90/larry) shows the
 > *other* deployment model — an on-demand orchestrator running a fleet of
 > specialist sub-agents locally. Hermes is the always-on, single-service
-> counterpart. Together they're two answers to "how do you run a personal
-> agent?"
+> counterpart. Both are **bodies that read from a shared brain** —
+> [`shared-brain`](https://github.com/soeren90/shared-brain), the plain-Markdown
+> store of memory, skills, and agent definitions they have in common. Two
+> answers to "how do you run a personal agent?", standing on one substrate.
 
 ---
 
