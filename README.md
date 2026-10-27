@@ -127,7 +127,15 @@ Hermes inherits the same discipline as the rest of my agent setup:
 
 A showcase, not a product. Hermes was in daily use from summer to autumn 2026
 against a specific app, ticketing system and channels, on private
-infrastructure, none of which is in this repo. What's here is the architecture,
+infrastructure, none of which is in this repo.
+
+**Why it moved.** In autumn 2026 I moved my agent work from this always-on
+server to Claude Code, running locally on my own machine and reachable remotely
+when I'm away. It was a deliberate trade: a box that is always online and holds
+credentials is a larger attack surface than an agent that runs where I am and
+under my control. Because memory and skills live in
+[`shared-brain`](https://github.com/soeren90/shared-brain), the move was a
+change of body, not a rebuild. What's here is the architecture,
 the operating model and the reasoning behind running an agent as an always-on
 service.
 
