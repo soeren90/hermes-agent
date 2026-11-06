@@ -4,7 +4,7 @@
 > for an app, turning conversations and signals into tickets and keeping the
 > backlog honest, and doubled as a 24/7 assistant.
 
-Hermes is the agent I built as **CEO** of a small software company to keep
+Hermes is the agent I built as **co-founder and managing director** of a small software company to keep
 product moving without being the bottleneck. Unlike a local, on-demand agent
 you summon from your laptop, Hermes was a **persistent service**: up around the
 clock, reachable from anywhere, and reacting to events on its own.
@@ -83,7 +83,7 @@ a different shape:
 
 Self-hosting on a VPS rather than a managed platform buys **control**: full say
 over what it can touch, where data lives and how it's wired, at the price of
-owning the uptime and the security. For a CEO running their own product, that
+owning the uptime and the security. For a founder running their own product, that
 trade landed on the side of control.
 
 See [docs/deployment.md](docs/deployment.md) for the always-on operating model
