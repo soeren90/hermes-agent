@@ -135,7 +135,9 @@ when I'm away. It was a deliberate trade: a box that is always online and holds
 credentials is a larger attack surface than an agent that runs where I am and
 under my control. Because memory and skills live in
 [`shared-brain`](https://github.com/soeren90/shared-brain), the move was a
-change of body, not a rebuild. What's here is the architecture,
+change of body, not a rebuild. Today the same brain feeds several bodies at
+once, including a scheduled cloud routine and an assistant on my phone (see
+[`shared-brain`](https://github.com/soeren90/shared-brain)). What's here is the architecture,
 the operating model and the reasoning behind running an agent as an always-on
 service.
 
